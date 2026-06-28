@@ -1,7 +1,8 @@
 tensorflow==2.15.0
-pandas
-scikit-learn
-numpy
-tensorboard
-matplotlib
-streamlit
+streamlit==1.46.1
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+matplotlib==3.10.3
+tensorboard==2.15.2
+h5py==3.14.0
